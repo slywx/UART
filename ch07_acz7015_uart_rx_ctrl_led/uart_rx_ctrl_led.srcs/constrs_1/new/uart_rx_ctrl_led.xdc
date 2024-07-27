@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN L5 [get_ports Clk]
+set_property PACKAGE_PIN P7 [get_ports Led]
+set_property PACKAGE_PIN R4 [get_ports Reset_n]
+set_property PACKAGE_PIN W18 [get_ports uart_rx]
+set_property IOSTANDARD LVCMOS33 [get_ports Clk]
+set_property IOSTANDARD LVCMOS33 [get_ports Led]
+set_property IOSTANDARD LVCMOS33 [get_ports Reset_n]
+set_property IOSTANDARD LVCMOS33 [get_ports uart_rx]
